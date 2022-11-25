@@ -1,1 +1,3 @@
 back-end branchı ile file1.txt dosyası oluşturuldu
+bu 2.satır dev brabchı ile oluşturuldu.
+bu degişiklikler github'a gönderilecek
